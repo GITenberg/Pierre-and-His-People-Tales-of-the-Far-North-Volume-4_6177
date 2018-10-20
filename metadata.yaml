@@ -1,5 +1,5 @@
 _repo: Pierre-and-His-People-Tales-of-the-Far-North-Volume-4_6177
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Short stories, Canadian'
 - !lcsh 'Canada, Northern -- Fiction'
+- GITenberg
 tableOfContents: The tall master -- The crimson flag -- The flood -- In Pipi Valley.
 title: 'Pierre and His People: Tales of the Far North. Volume 4.'
 url: http://www.gutenberg.org/ebooks/6177
